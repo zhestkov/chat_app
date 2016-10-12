@@ -1,3 +1,1 @@
-Coding assignment
-
-Chat App
+<strong>Chat App</strong>
